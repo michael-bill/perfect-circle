@@ -9,16 +9,16 @@ Link to the game: [Perfect Circle Game](https://neal.fun/perfect-circle/)
 
 Build:
 ```
-gcc -o perfcir.out main.c -framework ApplicationServices
+gcc -o perfect.out main.c -framework ApplicationServices
 ```
 
 Execute:
 ```
-./perfcir.out
+./perfect.out
 ```
-Or
+Or execute with parameters:
 ```
-./perfcir.out -wait 5000 -steps 40 -sleep 60 -r 250
+./perfect.out -wait 5000 -steps 40 -sleep 60 -r 250
 ```
 Where:
 <br/>
