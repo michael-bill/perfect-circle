@@ -7,20 +7,20 @@ For MacOS.
 
 Link to the game: [Perfect Circle Game](https://neal.fun/perfect-circle/)
 
-Build:
+### Build:
 ```
 gcc -o perfect.out main.c -framework ApplicationServices
 ```
 
-Execute:
+### Execute:
 ```
 ./perfect.out
 ```
-Or execute with parameters:
+### Or execute with parameters:
 ```
 ./perfect.out -wait 5000 -steps 40 -sleep 60 -r 250
 ```
-Where:
+### Where:
 <br/>
 ``-wait <time in milliseconds>`` - First wait time for mouse hovering on the circle center.<br/>
 ``-steps <number of steps>`` - Number of steps to draw a circle (the more steps, the smoother the circle).<br/>
