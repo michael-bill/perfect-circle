@@ -5,7 +5,7 @@ For MacOS.
 
 ![demo](https://github.com/michael-bill/PerfectCircle/blob/main/demo.gif)
 
-YouTube video demonstration: [Video](https://youtu.be/yiQiI4sCMZU?si=Xd2v83n2IgLJrpIG)
+YouTube video demonstration: [Video](https://youtu.be/yiQiI4sCMZU?si=Xd2v83n2IgLJrpIG)<br/>
 Link to the game: [Perfect Circle Game](https://neal.fun/perfect-circle/)
 
 ### Build:
