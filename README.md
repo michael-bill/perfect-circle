@@ -5,6 +5,8 @@ For MacOS.
 
 ![demo](https://github.com/michael-bill/PerfectCircle/blob/main/demo.gif)
 
+Link to the game: [Perfect Circle Game](https://neal.fun/perfect-circle/)
+
 Build:
 ```
 gcc -o perfcir.out main.c -framework ApplicationServices
