@@ -37,10 +37,10 @@ void mouseClickUp(double x, double y) {
 }
 
 int main(int argc, char** argv) {
-    int steps = 200;
-    int sleep = 20;
+    int steps = 1000;
+    int sleep = 5;
     int wait = 5000;
-    int r = 250;
+    int r = 400;
 
     if (argc > 1) {
         for (int i = 1; i < argc; i += 2) {
