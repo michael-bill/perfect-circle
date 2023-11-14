@@ -1,4 +1,4 @@
-# PerfetCircle exploit
+# Perfet Circle Exploit
 
 A program to draw a perfect circle in the game "Perfect Circle".
 For MacOS.
