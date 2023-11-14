@@ -1,3 +1,4 @@
-.vscode/*
-.history/
+.DS-Store
+.vscode
+bin
 *.out
