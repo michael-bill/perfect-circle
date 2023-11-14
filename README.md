@@ -1,9 +1,8 @@
 # Perfet Circle Exploit
 
-A program to draw a perfect circle in the game "Perfect Circle".
-For MacOS.<br/>
+A program to draw a perfect circle in the game "Perfect Circle". For MacOS.<br/>
 
-demo.gif:
+demo.gif:<br/>
 ![demo.gif](https://github.com/michael-bill/perfect-circle/blob/main/demo.gif)
 
 YouTube video demonstration: [Video](https://youtu.be/yiQiI4sCMZU?si=Xd2v83n2IgLJrpIG)<br/>
